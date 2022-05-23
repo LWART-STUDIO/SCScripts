@@ -1,0 +1,21 @@
+{
+    "name": "CodeBase.Edit",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2fdef4a859838e3449b625605ab13c25",
+        "GUID:dccd6f29df4cff34588f7344b286192f",
+        "GUID:fcf26afa24f209f48995057e40e2e83e",
+        "GUID:e1858e8552db82d4dabda17b0cadb7dd",
+        "GUID:8c4dd21966739024fbd72155091d199e",
+        "GUID:c677688ef3042284595272795d5b252d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
